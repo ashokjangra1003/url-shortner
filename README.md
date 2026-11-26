@@ -1,4 +1,4 @@
-<img widath="1500" alt="ashokkumar26nov2026" src="https://github.com/ashokjangra1003/url-shortner/assets/Minimal urlshorten GitHub banner.png">
+<img widath="1500" alt="ashokkumar26nov2026" src="https://github.com/ashokjangra1003/url-shortner/blob/main/assets/Minimal%20urlshorten%20GitHub%20banner.png">
  
 # URL Shortener
 
